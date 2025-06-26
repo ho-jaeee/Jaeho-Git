@@ -1,0 +1,17 @@
+# Java
+*.class
+*.log
+
+# Maven
+/target/
+
+# IntelliJ
+.idea/
+*.iml
+
+# macOS
+.DS_Store
+
+# 환경설정
+application.yml
+.env
