@@ -12,7 +12,6 @@ import java.util.List;
 import java.util.Map;
 
 @RestController
-
 public class PostController {
 
     private final PostService postService;
