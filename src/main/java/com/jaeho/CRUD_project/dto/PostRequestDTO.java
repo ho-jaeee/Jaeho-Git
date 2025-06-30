@@ -23,6 +23,4 @@ public class PostRequestDTO {
         this.author = author;
         this.postPassword = postPassword;
     }
-
-
 }
